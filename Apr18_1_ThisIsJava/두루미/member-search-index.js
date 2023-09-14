@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Coffee","l":"Coffee()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Coffee","l":"show()"},{"p":"<Unnamed>","c":"Coffee","l":"toMilliSec(int)"}];updateSearchResults();
